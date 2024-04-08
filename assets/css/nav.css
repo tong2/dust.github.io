@@ -34,7 +34,7 @@
 .xe-comment {
     transform: translateY(-50%);
     position: absolute;
-    margin-left: 50px;
+    /* margin-left: 50px; */
     top: 50%;
 }
 .xe-comment p {
