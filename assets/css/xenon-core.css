@@ -924,7 +924,7 @@ body {
 
 .sidebar-menu .logo-env {
     padding: 19px 45px;
-    border-bottom: 1px solid #313437
+    /* border-bottom: 1px solid */
 }
 
 .sidebar-menu .logo-env .logo {
@@ -975,7 +975,7 @@ body {
     text-decoration: none;
     display: block;
     padding: 13px 5px;
-    border-bottom: 1px solid #313437
+    /* border-bottom: 1px solid */
 }
 
 .sidebar-menu .main-menu a>i {
@@ -1930,7 +1930,7 @@ body {
         text-decoration: none;
         display: block;
         padding: 13px 5px;
-        border-bottom: 1px solid #313437
+        border-bottom: 1px solid
     }
     .navbar.horizontal-menu .navbar-inner .navbar-nav a>i {
         display: inline-block;
